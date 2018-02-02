@@ -1,0 +1,10 @@
+build/
+.cproject
+.project
+.settings/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+bin/
+cmake_install.cmake
+cmake_uninstall.cmake
